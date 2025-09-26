@@ -1,4 +1,0 @@
-dt step time: 0.001
-number: 1000
-initial temperature: 2
-initial density: 0.5

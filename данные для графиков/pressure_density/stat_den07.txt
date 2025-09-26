@@ -1,8 +1,0 @@
-dt step time: 0.005
-number: 1000
-initial temperature: 2.66206
-density: 0.7
-temperature: 1.99538 : 0.0211041 
-relative error: 0.0105765
-pressure: 3.08893 : 0.105233 
-relative error: 0.0340677

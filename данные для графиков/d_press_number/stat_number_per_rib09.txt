@@ -1,9 +1,0 @@
-dt step time: 0.005
-number: 729
-initial temperature: 2.20989
-density: 0.5
-temperature: 1.99939 : 0.0168546
-relative error: 0.00842988
-pressure: 1.10086 : 0.0807563
-relative error: 0.0733572
-pressure dispersion: 0.011859
