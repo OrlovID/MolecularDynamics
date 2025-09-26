@@ -1,0 +1,9 @@
+dt step time: 0.005
+number: 4913
+initial temperature: 2.14814
+density: 0.5
+temperature: 1.99836 : 0.00799841
+relative error: 0.00400248
+pressure: 1.0684 : 0.0324381
+relative error: 0.0303615
+pressure dispersion: 0.00159058

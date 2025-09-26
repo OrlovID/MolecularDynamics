@@ -1,0 +1,11 @@
+dt step time: 0.005
+number: 1000
+initial temperature: 300
+initial density: 0.8
+length of cell: 10.7722
+temperature: -nan(ind)
+absolute error: nan
+relative error: nan
+pressure: -nan(ind)
+absolute error nan
+relative error: nan
