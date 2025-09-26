@@ -12,7 +12,7 @@
 
 # graphs
 *.xlsx
-/данные для графиков/
+.MD_data/
 
 # other reference program
 md_openmp.cpp
